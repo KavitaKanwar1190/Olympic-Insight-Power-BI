@@ -76,7 +76,6 @@ that raw medal tables cannot answer:
 | **Power Query (M)** | Data loading, cleaning, type conversion, custom columns, duplicate removal |
 | **DAX** | KPI measures, calculated columns, context transition, RANKX, TOPN, MAXX |
 | **Star Schema** | 3 fact tables, 3 dimensions, 7 validated relationships |
-| **Python (pandas)** | Pre-build data profiling and source-file validation |
 
 ---
 
